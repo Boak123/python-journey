@@ -1,15 +1,1 @@
-
-This is a log message.
-Application started.
-Valid email entered: {'Username': 'tife', 'Domain': 'gmail.com'}
-Application started.
-Invalid email entered: & C:/Users/DELL/AppData/Local/Programs/Python/Python314/python.exe c:/Users/DELL/Desktop/Email_Formatting/app.py
-This is a log message.
-Application started.
-Valid email entered: {'Username': 'tifeq', 'Domain': 'mail.com'}
-Application started.
-Invalid email entered: & C:/Users/DELL/AppData/Local/Programs/Python/Python314/python.exe c:/Users/DELL/Desktop/Email_Formatting/app.py
-This is a log message.
-Application started.
-Valid email entered: {'Username': 'gift', 'Domain': 'gmail.com'}
-Application started.
+Woops! I have deleted the content!
