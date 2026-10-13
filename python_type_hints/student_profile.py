@@ -13,3 +13,8 @@ def display_profile(name:str, ID:str, level:str, score:float, is_registered:bool
           f"is_registered: {is_registered}")
 
 display_profile(name, ID, level, score, is_registered)
+
+
+def find_student_by_id(students: list[Student], student_id: str) -> Student | None:
+    
+    
