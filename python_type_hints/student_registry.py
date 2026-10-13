@@ -40,6 +40,4 @@ registry.register_student(Student("S002", "Bob", "Mathematics"))
 print(registry.get_student_count())  
 # Output: 2
 
-# Inspect registered students
 print(registry.students)  
-# Output: [Student(student_id='S001', name='Alice', course='Computer Science'), Student(student_id='S002', name='Bob', course='Mathematics')]
