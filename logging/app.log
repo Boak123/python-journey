@@ -1,0 +1,4 @@
+2026-10-24 16:31:03,829 - INFO - Application started.
+2026-10-24 16:31:03,829 - WARNING - Duplicate student registration.
+2026-10-24 16:31:03,829 - ERROR - Student record update failed.
+2026-10-30 00:00:39,034 - CRITICAL - Critical application failure
